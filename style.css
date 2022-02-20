@@ -54,8 +54,9 @@
 
 .navbar ul li a{
     text-decoration: none;
-    color: rgb(68, 0, 255);
+    color:black (68, 0, 255);
     text-transform: uppercase;
+    
 }
 .products{
         width: 50%;
@@ -64,3 +65,15 @@
        
         
 }
+.ourMenuSize {
+    border: 0px outset red;
+    height: 100px;
+    background-color: grey;    
+    text-align: center;
+
+    
+  }
+  .fontBelowMenu {
+      font-size: 20px;
+
+  }
